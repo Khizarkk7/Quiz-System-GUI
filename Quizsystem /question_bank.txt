@@ -1,0 +1,12 @@
+Which of the following best describes encapsulation in object-oriented programming?
+hiding the internal details
+combining multiple objects
+defining a blueprint
+extending the functionality
+A
+how is g=the father  of bilal
+khizar
+sherir
+d
+jhiny
+d
