@@ -20,3 +20,4 @@ Technologies Used
 Java: Core programming language for the system's logic.
 Swing: Java Swing framework used for designing the graphical user interface (GUI).
 JDBC: Java Database Connectivity (JDBC) is used to interact with a database for storing quizzes, subjects, and results.
+![image alt](https://github.com/Khizarkk7/Quiz-System-GUI/blob/50469da9449105ce1a532685563ca60fbefbd69d/quiz.png)
